@@ -52,5 +52,5 @@ ADJECTIVE = ['humongous', 'mini', 'crazy', 'best']
 REACTION = ['lol', '+1', '--gr8', 'nice', '- sad', 'omg', '... bfd', 'idc', '(too bad)']
 
 POS_KEYS = ['NOUN', 'VERBI', 'VERBT', 'ADJECTIVE',
-            'ADVERB', 'PREPOSITION', 'REACTION']
+            'ADVERB', 'PREPOSITION', 'REACTION', 'ANIMAL_SOUND']
 
